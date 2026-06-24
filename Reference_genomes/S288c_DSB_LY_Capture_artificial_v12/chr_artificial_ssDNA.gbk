@@ -1,0 +1,311 @@
+LOCUS       chr_artificial_s        7905 bp    DNA        linear       01-AUG-2024
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    complement(7174..7243)
+                     /locus_tag="Probe_URA-R-13482-SspI"
+                     /label="Probe_URA-R-13482-SspI"
+                     /ApEinfo_label="Probe_URA-R-13482-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(6442..6511)
+                     /locus_tag="Probe_URA-R-10241-SspI"
+                     /label="Probe_URA-R-10241-SspI"
+                     /ApEinfo_label="Probe_URA-R-10241-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(6076..6145)
+                     /locus_tag="Probe_URA-R-9028-MfeI"
+                     /label="Probe_URA-R-9028-MfeI"
+                     /ApEinfo_label="Probe_URA-R-9028-MfeI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(4612..4681)
+                     /locus_tag="Probe_URA-R-1439-SspI"
+                     /label="Probe_URA-R-1439-SspI"
+                     /ApEinfo_label="Probe_URA-R-1439-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(4246..4315)
+                     /locus_tag="Probe_URA-L-774-MfeI-RC"
+                     /label="Probe_URA-L-774-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-774-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(3514..3583)
+                     /locus_tag="Probe_URA-L-2599-MfeI-RC"
+                     /label="Probe_URA-L-2599-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-2599-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(3148..3217)
+                     /locus_tag="Probe_URA-L-3081-MfeI-RC"
+                     /label="Probe_URA-L-3081-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-3081-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(2782..2851)
+                     /locus_tag="Probe_URA-L-3728-SspI-RC"
+                     /label="Probe_URA-L-3728-SspI-RC"
+                     /ApEinfo_label="Probe_URA-L-3728-SspI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(2416..2485)
+                     /locus_tag="Probe_URA-L-4543-SspI-RC"
+                     /label="Probe_URA-L-4543-SspI-RC"
+                     /ApEinfo_label="Probe_URA-L-4543-SspI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(2050..2119)
+                     /locus_tag="Probe_URA-L-6065-SspI-RC"
+                     /label="Probe_URA-L-6065-SspI-RC"
+                     /ApEinfo_label="Probe_URA-L-6065-SspI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(952..1021)
+                     /locus_tag="Probe_URA-L-15683-SspI-RC"
+                     /label="Probe_URA-L-15683-SspI-RC"
+                     /ApEinfo_label="Probe_URA-L-15683-SspI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(220..289)
+                     /locus_tag="Probe_URA-L-17213-MfeI-RC"
+                     /label="Probe_URA-L-17213-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-17213-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    586..659
+                     /locus_tag="Probe_URA-L-16220-MfeI-RC"
+                     /label="Probe_URA-L-16220-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-16220-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1318..1391
+                     /locus_tag="Probe_URA-L-9924-MfeI-RC"
+                     /label="Probe_URA-L-9924-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-9924-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1684..1757
+                     /locus_tag="Probe_URA-L-6532-MfeI-RC"
+                     /label="Probe_URA-L-6532-MfeI-RC"
+                     /ApEinfo_label="Probe_URA-L-6532-MfeI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    3880..3953
+                     /locus_tag="Probe_URA-L-1560-SspI-RC"
+                     /label="Probe_URA-L-1560-SspI-RC"
+                     /ApEinfo_label="Probe_URA-L-1560-SspI-RC"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    4978..5051
+                     /locus_tag="Probe_URA-R-2715-93-SspI"
+                     /label="Probe_URA-R-2715-93-SspI"
+                     /ApEinfo_label="Probe_URA-R-2715-93-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    5344..5417
+                     /locus_tag="Probe_URA-R-2954-SspI"
+                     /label="Probe_URA-R-2954-SspI"
+                     /ApEinfo_label="Probe_URA-R-2954-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    5710..5783
+                     /locus_tag="Probe_URA-R-8073-SspI"
+                     /label="Probe_URA-R-8073-SspI"
+                     /ApEinfo_label="Probe_URA-R-8073-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    6808..6881
+                     /locus_tag="Probe_URA-R-12116-SspI"
+                     /label="Probe_URA-R-12116-SspI"
+                     /ApEinfo_label="Probe_URA-R-12116-SspI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    7540..7613
+                     /locus_tag="Probe_URA-R-14040-MfeI"
+                     /label="Probe_URA-R-14040-MfeI"
+                     /ApEinfo_label="Probe_URA-R-14040-MfeI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+       61 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      121 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      181 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNA CCATACATTT GTCTACTTTA
+      241 ACAATAGAAG TTTATAAGGT TGGGCCTCTT TTAAGAGTAC AGGTATAGTg atcNNNNNNN
+      301 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      361 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      421 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      481 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      541 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNGCATC TGTAAATGCA
+      601 CAAACATGTA TTGTCAATTT AGCTGTAGTA ATTTAGGCAT AACAAAAAGG TGCAAgatcN
+      661 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      721 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      781 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      841 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      901 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NGCGAGTGAT
+      961 AAGAACTTTC TATTAGGTCG ATTAACAGAC ATTTCTTGTG CAACGTTGAA TTATTCCAAT
+     1021 AgatcNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1081 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1141 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1201 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1261 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNAAA
+     1321 TGAATACCTT CCAAAACTTG GAATAATTGC CTTACATATT CCGGCATATT GTCCAGTCTA
+     1381 TACCTACgat cNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1441 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1501 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1561 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1621 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1681 NNNCACAAAT GTTGTATTGA AGGCCGTTAC AAATGGCACA AATGTAGTAT CCAAAGAAGA
+     1741 AGCAAGTCAA GAAgatcNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1801 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1861 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1921 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     1981 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2041 NNNNNNNNNT TTCATAACTC GAGTTATTTG CGGTACCAAC ATGTAAAAGA ATAGAAATTA
+     2101 TTCTTGTTAG AGTGTGCTCg atcNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2161 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2221 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2281 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2341 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2401 NNNNNNNNNN NNNNNATCAA GTCTTCGTAC AATGTTAGTA TATTATTAAC AATGTTTAAC
+     2461 CATAATTCCT TGGAGAAAAT TTTAGgatcN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2521 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2581 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2641 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2701 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2761 NNNNNNNNNN NNNNNNNNNN NATGAAATTT CTTCTAATAG TCCTAGGACA CACATGAAGT
+     2821 ACTCATTTGT CAAATTATTG CTGTCTGTCT TgatcNNNNN NNNNNNNNNN NNNNNNNNNN
+     2881 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     2941 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3001 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3061 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3121 NNNNNNNNNN NNNNNNNNNN NNNNNNNTGT ATTGTCATAA ATTGGCGCAG TAGCCTCAAT
+     3181 TTCAACGTCG TTTGCCTCTG GTGTTTGTTA ATGTGCAgat cNNNNNNNNN NNNNNNNNNN
+     3241 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3301 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3361 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3421 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3481 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNGTTAAAT CCAAAACGGC AGAAGCCTGA
+     3541 ATGAAACATA TTAACCATTT GGAGTACGTC AATAAATTCT GGGgatcNNN NNNNNNNNNN
+     3601 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3661 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3721 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3781 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     3841 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNA CTGTATTCGA ATGAAAGAGT
+     3901 AACCATTGTT GCGCACCAAT TTACTCACTA TTTGACTGCT GCGCTAAGCg atcNNNNNNN
+     3961 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4021 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4081 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4141 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4201 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNATATC ATCTTGAGTA
+     4261 GGGACATACA TTTGGGCACC TAAAAATAAT GGTGTAAACA TTTCTCTTTA AATTGgatcN
+     4321 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4381 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4441 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4501 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4561 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NGTTTAAGGG
+     4621 CAAATGTACT CTCGCAGAAG GAAATAATGC AAGTAACTTG TATAACTAAA GCCGAGTTAA
+     4681 AgatcNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4741 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4801 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4861 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     4921 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNCCA
+     4981 ATAACATTCA GAATACTTTT ATTTTTATGT TGCAAAATAA GCTGTACGAC TTTTTTtATC
+     5041 TTCGACGgat cNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5101 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5161 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5221 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5281 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5341 NNNGTATTCA TGTCATTATT GTCAGGGGTT AACTTTCCGG TAAACTTCAA AAATGGGGAC
+     5401 AAAAGACTAA CTTgatcNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5461 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5521 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5581 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5641 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5701 NNNNNNNNNT ATCGTCATAC CTGTGCTTTC TGTTACCGTA TTGGAATTAT TTCCAGCTAG
+     5761 TGTCGAAAAC TTCTTTCAGg atcNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5821 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5881 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     5941 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6001 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6061 NNNNNNNNNN NNNNNCTCAT TGAGTTGCTT TTATATTCGA AGTGCCCAAA ACCTATTCAT
+     6121 AATGGGCCCC GGACAAATGC GAATAgatcN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6181 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6241 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6301 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6361 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6421 NNNNNNNNNN NNNNNNNNNN NGATTGAGAG TTAGTTGCAG AGTGAATTAA ATGTGTAATA
+     6481 ATCAAAGACT GAGTTATTGG TAGGTATTTG GgatcNNNNN NNNNNNNNNN NNNNNNNNNN
+     6541 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6601 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6661 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6721 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6781 NNNNNNNNNN NNNNNNNNNN NNNNNNNTAC TGAAAAATAC GTCCGTCAAG TCTCTAGAGA
+     6841 GGTACTGGAA ACCCTCTTAA TACTATTACA AAGCCAAgat cNNNNNNNNN NNNNNNNNNN
+     6901 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     6961 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7021 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7081 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7141 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNTAAAAAT TGTAAAATAT GTTGAGTAAT
+     7201 AATATACAAT TCCAAACTTG CATTCTCTAC AGGTTTATTT TCAgatcNNN NNNNNNNNNN
+     7261 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7321 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7381 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7441 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7501 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNC GTTTTTAGAA TATATTGTAA
+     7561 TAAAACACAA TTAATAATAC AGTTGTCTCT TCGTCCTCTT ATGGTGGCAg atcNNNNNNN
+     7621 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7681 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7741 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7801 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+     7861 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNN 
+//
